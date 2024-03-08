@@ -39,7 +39,7 @@
 * [Building](#building)
 
 ## Download
-
+- Decrypted YouTube IPA: https://github.com/MiRO92/uYou-for-YouTube/issues/164
 - The latest version of **uYouPlus** can be found under [Releases](https://github.com/qnblackcat/uYouPlus/releases/latest).
 - **Compatibility:** Requires iOS/iPadOS 14.0 or later.
 - For AltStore user: 
